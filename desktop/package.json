@@ -61,7 +61,7 @@
     "@typescript-eslint/parser": "^8.37.0",
     "@vitejs/plugin-react": "^4.7.0",
     "autoprefixer": "^10.4.21",
-    "baseline-browser-mapping": "^2.9.19",
+    "baseline-browser-mapping": "^2.11.22",
     "eslint": "^9.33.0",
     "eslint-plugin-react": "^7.37.5",
     "jsdom": "^26.1.0",
